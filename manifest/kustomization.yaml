@@ -9,4 +9,4 @@ resources:
 images:
 
   - name: sivanesansaravanan/demo-app
-    newTag: test1
+    newTag: test-argocd
