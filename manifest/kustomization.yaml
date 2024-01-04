@@ -9,4 +9,4 @@ namespace: sampleapp
 images:
 
   - name: sivanesansaravanan/demo-app
-    newTag: test
+    newTag: test1
